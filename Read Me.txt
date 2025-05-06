@@ -1,0 +1,16 @@
+Goal:
+
+Money making money ~
+
+
+Features: 
+
+Web scrape news sentiment
+
+Manage portfolio
+
+ML model
+
+Paper testing env
+
+Execute orders / transactions
